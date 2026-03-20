@@ -1,9 +1,9 @@
 {
-  "prompt": "your complete final prompt used in DALL-E 3 verbatim",
+  "prompt": "A surreal, minimalist architectural diptych. Left panel: A close-up of a marble staircase ascending sharply into bright light. Right panel: A wide-angle view of dozens of identical small staircases floating in a void; while each individual staircase clearly angles upward, they are stepped downward in a massive formation, creating a global path that leads into a dark abyss. No text, no numbers, no people. Impossible Euclidean geometry, Escher-style lighting, high contrast, uncanny atmosphere, 8k resolution. --ar 16:9",
   "model": "DALL·E 3",
   "paradox": "Simpson's Paradox",
-  "visual_logic": "Subgroup trends slope upward while the aggregate arrangement slopes downward. The diptych contrasts local perception against global reality, embodying the paradox's core reversal without using data or text.",
+  "visual_logic": "Individual staircases slope upward (subgroup trend), but their collective arrangement creates a continuous downward trajectory (aggregate reversal). The diptych structure contrasts local perception against global reality.",
   "dataset_name": "UC Berkeley Graduate Admissions (1973)",
   "dataset_url": "https://waf.cs.illinois.edu/discovery/berkeley.csv",
-  "insight": "At the aggregate level, men had a 44% admission rate vs 35% for women. However, when stratified by department, women actually had higher admission rates in 4 out of 6 major departments because they applied to more competitive programs."
+  "insight": "In 1973, Berkeley was accused of bias as men had higher aggregate admission rates, but data showed women actually had higher rates within most individual departments."
 }
