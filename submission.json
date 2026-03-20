@@ -1,9 +1,9 @@
 {
-  "prompt": "Your complete DALL-E 3 prompt here...",
+  "prompt": "your complete final prompt used in DALL-E 3 verbatim",
   "model": "DALL·E 3",
   "paradox": "Simpson's Paradox",
-  "visual_logic": "Individual gradients slope upward while the global arrangement creates a downward trajectory, visually representing the reversal of trends between subgroups and the aggregate data.",
-  "dataset_name": "UC Irvine Admission Data (1973)",
-  "dataset_url": "https://identity.foundation/simpsons-paradox-data",
-  "insight": "The data shows a bias toward men in aggregate, but when broken down by department, women actually had higher admission rates in most individual sectors."
+  "visual_logic": "Subgroup trends slope upward while the aggregate arrangement slopes downward. The diptych contrasts local perception against global reality, embodying the paradox's core reversal without using data or text.",
+  "dataset_name": "UC Berkeley Graduate Admissions (1973)",
+  "dataset_url": "https://waf.cs.illinois.edu/discovery/berkeley.csv",
+  "insight": "At the aggregate level, men had a 44% admission rate vs 35% for women. However, when stratified by department, women actually had higher admission rates in 4 out of 6 major departments because they applied to more competitive programs."
 }
